@@ -22,28 +22,22 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://x.com/mumbai_meetup"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <FaTwitter className="h-5 w-5" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/company/mumbaimeetup"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <FaLinkedin className="h-5 w-5" />
               </a>
               <a
-                href="#"
+                href="https://github.com/Mumbai-meetup"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <FaGithub className="h-5 w-5" />
-              </a>
-              <a
-                href="#"
-                className="text-gray-400 hover:text-white transition-colors"
-              >
-                <FaDiscord className="h-5 w-5" />
               </a>
             </div>
           </div>
