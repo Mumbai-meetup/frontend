@@ -3,7 +3,6 @@ import {
   FaGithub,
   FaTwitter,
   FaLinkedin,
-  FaDiscord,
 } from "react-icons/fa";
 import Logo from "@/assets/logo.svg";
 const Footer = () => {
